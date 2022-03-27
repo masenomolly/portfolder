@@ -16,7 +16,7 @@ a{
   padding:0.2em;
 }
 .nav-link:hover{
-  background-color: green;
+  background-color: rgb(0, 87, 128);
   color: #fff;
 }
 .hero{
